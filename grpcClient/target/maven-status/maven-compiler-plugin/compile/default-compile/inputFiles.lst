@@ -1,0 +1,3 @@
+/workspaces/gRPC_TP/grpcClient/src/main/java/org/xproce/client/BankGrpcFirstClient.java
+/workspaces/gRPC_TP/grpcClient/src/main/java/org/xproce/stubs/Bank.java
+/workspaces/gRPC_TP/grpcClient/src/main/java/org/xproce/stubs/BankServiceGrpc.java
